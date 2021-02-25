@@ -1,0 +1,8 @@
+# web * 3   N * service
+server:
+  port: 8080
+spring:
+  thymeleaf:
+    cache: false
+
+
